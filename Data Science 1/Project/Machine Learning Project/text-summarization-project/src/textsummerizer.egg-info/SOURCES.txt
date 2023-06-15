@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/textsummerizer/__init__.py
+src/textsummerizer/pipeline.py
+src/textsummerizer.egg-info/PKG-INFO
+src/textsummerizer.egg-info/SOURCES.txt
+src/textsummerizer.egg-info/dependency_links.txt
+src/textsummerizer.egg-info/top_level.txt
+src/textsummerizer/components/__init__.py
+src/textsummerizer/constants/__init__.py
+src/textsummerizer/entity/__init__.py
+src/textsummerizer/logging/__init__.py

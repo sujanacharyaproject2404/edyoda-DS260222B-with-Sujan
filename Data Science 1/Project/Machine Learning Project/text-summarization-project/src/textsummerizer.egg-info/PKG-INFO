@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: textsummerizer
+Version: 0.0.0
+Summary: A small python package for cnn app
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
+Author: sujanacharyaproject2404
+Author-email: sujanacharyaproject2404@gmail.com
+Project-URL: Bug Tracker, https://github.com/sujanacharyaproject2404/text-summarization-project/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# text-summarization-project
