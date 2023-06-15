@@ -1,0 +1,28 @@
+conda create -p venv python==3.9 -y
+
+
+conda activate venv/
+
+
+Flask
+Sklearn
+pandas
+numpy
+matplotlib
+
+
+requirements.txt
+
+pip install -r requirements.txt
+
+git config --global user.name "Sujan"
+git config --global user.email "sujanacharya01@gmail.com"
+
+git add requirements.txt
+
+git add .
+
+git commit -m "This commit includesrequirements.txt and readme file"
+
+git push origin main
+D:\Data Science\Project\Boston House Pricing\Boston-House-Pricing
